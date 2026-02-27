@@ -1,0 +1,38 @@
+form{
+    background-color: #496fbb;
+    border-radius: 1rem;
+    color: white;
+}
+
+form h1{
+    color: #071c45;
+    padding-bottom: 4rem;
+}
+
+
+form a{
+    color: white;
+    text-decoration: none;
+}
+
+form a:hover{
+    text-decoration: underline;
+}
+
+form button{
+    border-radius: 0.7rem;
+    padding: 0.6rem;
+    margin: 1rem;
+    background-color: #233e74;
+    color: white;
+}
+
+form button:hover{
+    background-color: #02153b;
+}
+
+.outrasOpcoes{
+    /* padding-top: 1rem; */
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
