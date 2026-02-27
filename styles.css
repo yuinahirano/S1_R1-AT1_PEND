@@ -1,4 +1,6 @@
-form{
+
+
+/* form{
     background-color: #496fbb;
     border-radius: 1rem;
     color: white;
@@ -18,21 +20,27 @@ form a{
 form a:hover{
     text-decoration: underline;
 }
-
+ 
 form button{
     border-radius: 0.7rem;
+    border: white;
     padding: 0.6rem;
     margin: 1rem;
     background-color: #233e74;
     color: white;
+}  */
+header, footer{
+    background-color: #86a6e7;
 }
 
-form button:hover{
-    background-color: #02153b;
+
+#buttonEnviar{
+    background-color: #233e74;
 }
 
-.outrasOpcoes{
-    /* padding-top: 1rem; */
-    margin-left: 5rem;
-    margin-right: 5rem;
-}
+a{
+    text-decoration: none;
+} 
+a:hover{
+    text-decoration: underline;
+} 
